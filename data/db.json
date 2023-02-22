@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "play Gloomhaven",
+      "isFav": true
+    },
+    {
+      "id": 2,
+      "title": "Game is ON",
+      "isFav": false
+    },
+    {
+      "id": 4,
+      "title": "Show the street for me",
+      "isFav": false
+    },
+    {
+      "title": "I love this work",
+      "isFav": false,
+      "id": 733706
+    },
+    {
+      "id": 145500,
+      "title": "Get me a JOB ",
+      "isFav": true
+    }
+  ]
+}
